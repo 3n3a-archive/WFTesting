@@ -1,0 +1,10 @@
+C:\Users\e\source\repos\WFTesting\WFAdvancedDesigns\bin\Debug\WFAdvancedDesigns.exe.config
+C:\Users\e\source\repos\WFTesting\WFAdvancedDesigns\bin\Debug\WFAdvancedDesigns.exe
+C:\Users\e\source\repos\WFTesting\WFAdvancedDesigns\bin\Debug\WFAdvancedDesigns.pdb
+C:\Users\e\source\repos\WFTesting\WFAdvancedDesigns\obj\Debug\WFAdvancedDesigns.csproj.AssemblyReference.cache
+C:\Users\e\source\repos\WFTesting\WFAdvancedDesigns\obj\Debug\WFAdvancedDesigns.Form1.resources
+C:\Users\e\source\repos\WFTesting\WFAdvancedDesigns\obj\Debug\WFAdvancedDesigns.Properties.Resources.resources
+C:\Users\e\source\repos\WFTesting\WFAdvancedDesigns\obj\Debug\WFAdvancedDesigns.csproj.GenerateResource.cache
+C:\Users\e\source\repos\WFTesting\WFAdvancedDesigns\obj\Debug\WFAdvancedDesigns.csproj.CoreCompileInputs.cache
+C:\Users\e\source\repos\WFTesting\WFAdvancedDesigns\obj\Debug\WFAdvancedDesigns.exe
+C:\Users\e\source\repos\WFTesting\WFAdvancedDesigns\obj\Debug\WFAdvancedDesigns.pdb
